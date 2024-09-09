@@ -25,6 +25,6 @@ export const endpoints = {
   },
 }
 
-export const HOST_API = `https://${process.env.RAILWAY_PUBLIC_DOMAIN}`
+export const HOST_API = "https://todo-list-back-end-production-cd94.up.railway.app"
 
 export const COLORS = ['primary', 'secondary', 'info', 'success', 'warning', 'error']
